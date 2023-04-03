@@ -18,5 +18,3 @@ Store is RxJS powered global state management for Angular applications, just lik
 - create a new component, where the buttons and the state of the counter goes in.
 - inject the new created component in the declarations
 - Inject store in the new component, and implement dispatch actions to the store
-
-That is it!!!
